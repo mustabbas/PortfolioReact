@@ -20,7 +20,7 @@ const project =  [
     title: 'fikrafin',
     lang: ['HTML', 'CSS', 'JavaScript', 'PHP', 'Mysql'],
     img: "assets/img/fikrafin.png",
-    des: "",
+    des: "fikrafin",
     url: "https://fikrafin.fastp.com.sa/",
     github: ""
     },
