@@ -18,12 +18,16 @@ class Contact extends React.Component{
             <div class="card text-center bg-light">
               <img src="assets/img/AboutLng.png" class="card-img-top" alt="placeholder" />
               <div class="card-body">
-                <h5 class="card-title">Languages</h5>
+                <h5 class="card-title">Front-End</h5>
                 <ul class="d-flex list-unstyled AboutLng flex-wrap justify-content-center">
                   <li><span class="badge align-middle mx-1">JavaScript</span></li>
-                  <li><span class="badge align-middle mx-1">Ruby</span></li>
-                  <li><span class="badge align-middle mx-1">HTML</span></li>
-                  <li><span class="badge align-middle mx-1">CSS</span></li>
+                  <li><span class="badge align-middle mx-1">React</span></li>
+                  <li><span class="badge align-middle mx-1">Redux</span></li>
+                  <li><span class="badge align-middle mx-1">Bootstrap</span></li>
+                  <li><span class="badge align-middle mx-1">jQuery</span></li>
+                  <li><span class="badge align-middle mx-1">HTML5</span></li>
+                  <li><span class="badge align-middle mx-1">CSS3</span></li>
+                  <li><span class="badge align-middle mx-1">React Native</span></li>
                 </ul>
               </div>
             </div>
@@ -32,13 +36,11 @@ class Contact extends React.Component{
             <div class="card text-center bg-light">
               <img src="assets/img/AboutFrame.png" class="card-img-top" alt="placeholder" />
               <div class="card-body">
-                <h5 class="card-title">FrameWorks</h5>
+                <h5 class="card-title">Back-End</h5>
                 <ul class="d-flex list-unstyled AboutLng flex-wrap justify-content-center">
-                  <li><span class="badge align-middle mx-1">Bootstrap</span></li>
-                  <li><span class="badge align-middle mx-1">Ruby on Rails</span></li>
-                  <li><span class="badge align-middle mx-1">RSpec</span></li>
-                  <li><span class="badge align-middle mx-1">Capybara</span></li>
-                  <li><span class="badge align-middle mx-1">Selenium</span></li>
+                  <li><span class="badge align-middle mx-1">PHP</span></li>
+                  <li><span class="badge align-middle mx-1">CodeIgniter</span></li>
+                  <li><span class="badge align-middle mx-1">MySQL</span></li>
                 </ul>
               </div>
             </div>
@@ -47,13 +49,13 @@ class Contact extends React.Component{
             <div class="card text-center bg-light">
               <img src="assets/img/AboutSkill.png" class="card-img-top" alt="placeholder" />
               <div class="card-body">
-                <h5 class="card-title">Skills</h5>
+                <h5 class="card-title">Tools & Methods</h5>
                 <ul class="d-flex list-unstyled AboutLng flex-wrap justify-content-center">
-                  <li><span class="badge align-middle mx-1">Codekit</span></li>
+                  <li><span class="badge align-middle mx-1">Git</span></li>
                   <li><span class="badge align-middle mx-1">GitHub</span></li>
-                  <li><span class="badge align-middle mx-1">Codepen</span></li>
-                  <li><span class="badge align-middle mx-1">Gitlab</span></li>
-                  <li><span class="badge align-middle mx-1">Terminal</span></li>
+                  <li><span class="badge align-middle mx-1">Mobile/Responsive Development</span></li>
+                  <li><span class="badge align-middle mx-1">TDD</span></li>
+                  <li><span class="badge align-middle mx-1">Chrome Dev Tools</span></li>
                 </ul>
               </div>
             </div>
