@@ -1,5 +1,5 @@
 
-const project =  [
+const projectData =  [
     {
     title: 'fikra',
     lang: ['HTML', 'CSS', 'JavaScript', 'React js', 'PHP', 'Mysql'],
@@ -23,6 +23,14 @@ const project =  [
     des: "fikrafin",
     url: "https://fikrafin.fastp.com.sa/",
     github: ""
+    },
+    {
+        title: 'Covid Data',
+        lang: ['HTML', 'CSS', 'JavaScript', 'React js'],
+        img: "assets/img/covid.png",
+        des: "This website for showing Statistics about the covid virus around the world and you can search by country.",
+        url: "https://agitated-ritchie-4ea488.netlify.app/",
+        github: "https://github.com/mustabbas/covid-data"
     },
     {
     title: 'Bookstore CMS',
@@ -98,4 +106,4 @@ const project =  [
     },
 ]
 
-export default project;
+export default projectData;
