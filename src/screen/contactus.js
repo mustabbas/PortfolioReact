@@ -8,7 +8,7 @@ class Contact extends React.Component{
       <div class="container text-center">
         <h2 class="about-title">About me</h2>
         <p class="about-p mx-auto col-lg-6">I can help you build a product , feature or website Look through some of my work and experience! If you like what you see and have a project you need coded, don’t hestiate to contact me.</p>
-        <a href="#" class="btn">Get My Resume</a>
+        <a href="https://github.com/mustabbas/" class="btn">Get My Resume</a>
       </div>
     </section>
     <section>

@@ -3,13 +3,13 @@ const Header = () => (
        <header class="header">
       <nav class="navbar navbar-expand-lg navbar-light text-center">
         <div class="container-fluid">
-          <a class="navbar-brand d-lg-none" href="#">Welcome</a>
+          <a class="navbar-brand d-lg-none" href="https://github.com/mustabbas/">Welcome</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse justify-content-center" id="navbarNavAltMarkup">
             <div class="navbar-nav">
-              <a class="nav-link active" aria-current="page" href="#">Portfolio</a>
+              <a class="nav-link active" aria-current="page" href="https://github.com/mustabbas/">Portfolio</a>
               <a class="nav-link" href="#about">About</a>
               <a class="nav-link" href="#contact">Contact</a>
             </div>
