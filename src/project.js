@@ -25,6 +25,30 @@ const projectData =  [
     github: ""
     },
     {
+        title: 'Budget App',
+        lang: ['HTML', 'CSS', 'JavaScript', 'Ruby on Rails', 'postgresql'],
+        img: "assets/img/budgetApp.png",
+        des: "Budget App",
+        url: "https://mustbudgetapp.herokuapp.com/",
+        github: "https://github.com/mustabbas/budget-app"
+    },
+    {
+        title: 'Recipes',
+        lang: ['HTML', 'CSS', 'JavaScript', 'Ruby on Rails', 'postgresql'],
+        img: "assets/img/recipe.png",
+        des: "Recipes",
+        url: "https://recipes-must-dyary-production.herokuapp.com/users/sign_in",
+        github: "https://github.com/mustabbas/recipes"
+    },
+    {
+        title: 'Blog App',
+        lang: ['HTML', 'CSS', 'JavaScript', 'Ruby on Rails', 'postgresql'],
+        img: "assets/img/blog.png",
+        des: "Blog App",
+        url: "https://github.com/mustabbas/blog",
+        github: "https://github.com/mustabbas/blog"
+    },
+    {
         title: 'Covid Data',
         lang: ['HTML', 'CSS', 'JavaScript', 'React js'],
         img: "assets/img/covid.png",
