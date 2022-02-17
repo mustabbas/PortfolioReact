@@ -9,7 +9,7 @@ const Project =(props) => {
         return(
         <div class="col-md-6 col-lg-4 my-3">
               <div class="card text-center">
-                <img src={props.img} class="card-img-top" alt="placeholder" />
+                <img style = {{maxHeight:300}} src={props.img} class="card-img-top" alt="placeholder" />
                 <div class="card-body">
                   <h5 class="card-title">{props.title}</h5>
                   <ul class="d-flex justify-content-center list-unstyled flex-wrap works-lng">

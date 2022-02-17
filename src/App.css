@@ -7,6 +7,10 @@
   /* height: 100%; */
 }
 
+.card-img-to {
+  max-height: 300px !important;
+}
+
 a.btn,
 button.btn {
   background-color: #36b37f;
