@@ -21,6 +21,7 @@ class Contact extends React.Component{
                 <h5 class="card-title">Front-End</h5>
                 <ul class="d-flex list-unstyled AboutLng flex-wrap justify-content-center">
                   <li><span class="badge align-middle mx-1">JavaScript</span></li>
+                  <li><span class="badge align-middle mx-1">Angular</span></li>
                   <li><span class="badge align-middle mx-1">React</span></li>
                   <li><span class="badge align-middle mx-1">Redux</span></li>
                   <li><span class="badge align-middle mx-1">Bootstrap</span></li>
@@ -38,9 +39,10 @@ class Contact extends React.Component{
               <div class="card-body">
                 <h5 class="card-title">Back-End</h5>
                 <ul class="d-flex list-unstyled AboutLng flex-wrap justify-content-center">
-                  <li><span class="badge align-middle mx-1">PHP</span></li>
+                <li><span class="badge align-middle mx-1">Ruby on Rails</span></li>
+                  <li><span class="badge align-middle mx-1">Laravel</span></li>
                   <li><span class="badge align-middle mx-1">CodeIgniter</span></li>
-                  <li><span class="badge align-middle mx-1">MySQL</span></li>
+                  <li><span class="badge align-middle mx-1">Go lang</span></li>
                 </ul>
               </div>
             </div>

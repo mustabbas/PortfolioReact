@@ -1,6 +1,20 @@
 
 const projectData =  [
     {
+        title: 'sakani',
+        lang: ['Angular','Ruby on Rails', 'GoLang'],
+        img: "assets/img/sakani.png",
+        url: "https://sakani.sa/",
+        github: ""
+    },
+    {
+        title: 'Link',
+        lang: ['React Native','HTML', 'CSS', 'JavaScript','PHP', 'Mysql'],
+        img: "assets/img/Link.png",
+        url: "",
+        github: ""
+    },
+    {
     title: 'fikra',
     lang: ['HTML', 'CSS', 'JavaScript', 'React js', 'PHP', 'Mysql'],
     img: "assets/img/fikra.png",
